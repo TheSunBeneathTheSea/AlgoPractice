@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-import AlgoPractice.*;
+import Acmicpc.*;
 
 
 public class Main {
