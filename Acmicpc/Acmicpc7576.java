@@ -2,8 +2,6 @@ package Acmicpc;
 
 import java.util.ArrayDeque;
 
-import javax.sound.sampled.SourceDataLine;
-
 /*
 
 slowlight50@gmail.com
